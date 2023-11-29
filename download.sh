@@ -1,0 +1,24 @@
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/009/SRR1575029/SRR1575029_1.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/000/SRR1575030/SRR1575030_1.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/001/SRR1575031/SRR1575031_1.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/002/SRR1575032/SRR1575032_1.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/006/SRR1575036/SRR1575036_2.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/008/SRR1575038/SRR1575038_2.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/009/SRR1575039/SRR1575039_2.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/001/SRR1575041/SRR1575041_2.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/000/SRR1575040/SRR1575040_2.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/003/SRR1575033/SRR1575033_2.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/004/SRR1575044/SRR1575044_1.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/002/SRR1575042/SRR1575042_2.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/007/SRR1575037/SRR1575037_1.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/005/SRR1575035/SRR1575035_1.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/004/SRR1575034/SRR1575034_1.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/007/SRR1575047/SRR1575047_1.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/007/SRR1575037/SRR1575037_2.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/003/SRR1575033/SRR1575033_1.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/006/SRR1575046/SRR1575046_1.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/005/SRR1575035/SRR1575035_2.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/005/SRR1575045/SRR1575045_1.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/004/SRR1575034/SRR1575034_2.fastq.gz
+wget -nc http://ftp.sra.ebi.ac.uk/vol1/fastq/SRR157/007/SRR1575047/SRR1575047_2.fastq.gz
+
